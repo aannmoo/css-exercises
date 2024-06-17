@@ -1,0 +1,16 @@
+.first-class{
+    background-color: #cc6699;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+.second-class{
+    font-size: 24px;
+}
+#first-id{
+    color: #0066ff;
+    font-size: 36px;
+}
+#second-id{
+    background-color: #33cc33;
+    font-size: 24px;
+    font-weight: bold;
+}
